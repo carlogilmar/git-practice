@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Git-Github Course</title>
-    <link>http://carlogilmar.me/git-practice/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Git-Github Course</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://carlogilmar.me/git-practice/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Design</title>
-      <link>http://carlogilmar.me/git-practice/categories/design/</link>
+      <link>/categories/design/</link>
       <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
-      <guid>http://carlogilmar.me/git-practice/categories/design/</guid>
+      <guid>/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General</title>
-      <link>http://carlogilmar.me/git-practice/categories/general/</link>
+      <link>/categories/general/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>http://carlogilmar.me/git-practice/categories/general/</guid>
+      <guid>/categories/general/</guid>
       <description></description>
     </item>
     
