@@ -2,23 +2,203 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Git/Github Course.\n\n\nSpace for students from Mexico who are learning Git and how to use Github as platform.\n\n\nIPN Upiicsa, Sep-2017.\n\n\nHere you can find resources and material for learn git.\n\n\nGo to general chat: \nChat de Slack\n\n\nAuthor: \nCarlo Gilmar",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#gitgithub-course",
+            "text": "Space for students from Mexico who are learning Git and how to use Github as platform.  IPN Upiicsa, Sep-2017.  Here you can find resources and material for learn git.  Go to general chat:  Chat de Slack  Author:  Carlo Gilmar",
+            "title": "Git/Github Course."
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/about/",
+            "text": "Quem iamdudum adest vim est amori auras\n\n\nInde frena sit mihi ultimus Troum\n\n\nLorem markdownum pomis exciderit valebant petebat flava gloria nescio, perstant\npedibusque, senatus saxumque. Et tu oras \nEpidauria\n\naether \npascas\n absistite paulatim aut postquam\nme altis huic telum quoque!\n\n\nLevem ego enim narrare spatium pandite motu, cultis iunguntur finemque India:\nlitus suas tenebat Lucifero \net litus refugit\n? Iram Parthenopeia aeno,\ncoissent litoreo corpus dracones cervice, celerique moenia quoque depressitque\nmovit; qua vacavit motu. Ipse culta ignes.\n\n\nRediit Meleagros\n\n\nDum loca ulla ceciderunt, sole quod qui sepulta mea \nhabet\n poma conciderant\nanimi. Parentem et aditus, par nec, Vesta tamen sinu, duabus in fuit! Fossae ora\nne contactu quo sumpto templi antro; intellecta dum fallente linquit Ithacus\nignotos, eram, \nme\n.\n\n\nProturbat ducem\n\n\nInque Aries postquam sumere hastarum sim vel aquas indicat Fortuna postquam\nvirgineos habebat. Etiam aut, via maxime flammam est animi suum sit. Plagarum\nquibus quaecumque Bybli cedere. \nSub data\nadmonitus\n Iovis divum abest. Sol qui poteram\nne pars Alcyonen virgaque iungat, Eous esse eloquio.\n\n\n\n\nQuae voce procul ab mactas ille ferre\n\n\nPrimum iste decet\n\n\nInducere fallat\n\n\n\n\nClausaeque dant praecepta ante dicebant decimum\n\n\nCentumque paterno. Me quoque rapitur iactabimur visa. \nCursu flet\nterramque\n pisa et nec agna raptos Latona\nmuneribus fallente concussae videri exit spectabat ut occasu? Opem simplex\ndabit. Quia \ndolore altera\n: toto subit, \nille tamen\nintremuit\n Ityn pignus e rictus Pergama clamavit tempora pudorque, ripa.\n\n\nbalancing = pretest;\nif (3) {\n    sample = drag;\n    irq.syntax(kibibyte.trash(keywordsEnterprise, cadPpp, digitalCell),\n            cleanFios, computer(-2));\n    directory = 2;\n}\ndomain += sql;\n\n\n\nSonitum raptores adimam aquas. Non ab erubuit, lanient contulerat dabis \nsororis\nafflatibus\n nitor: surrexere Tritonia patria in\nfallere titulos erat. Saetis omni Cyparissus fugit in nuper \nproceres atque\ndempserat\n sed fudit, foret corde in\nretenta. Quod ulla et qui fratres Parcarum, mea nec per et montano cessisse\nOrphea ortas conlapsosque vidit penetratque. Bona geminis refers quae, suco\nconstruit sicco laudat, profecto fecit Cepheus demisit citharae.",
+            "title": "About"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/about/#quem-iamdudum-adest-vim-est-amori-auras",
+            "text": "",
+            "title": "Quem iamdudum adest vim est amori auras"
+        },
+        {
+            "location": "/about/#inde-frena-sit-mihi-ultimus-troum",
+            "text": "Lorem markdownum pomis exciderit valebant petebat flava gloria nescio, perstant\npedibusque, senatus saxumque. Et tu oras  Epidauria \naether  pascas  absistite paulatim aut postquam\nme altis huic telum quoque!  Levem ego enim narrare spatium pandite motu, cultis iunguntur finemque India:\nlitus suas tenebat Lucifero  et litus refugit ? Iram Parthenopeia aeno,\ncoissent litoreo corpus dracones cervice, celerique moenia quoque depressitque\nmovit; qua vacavit motu. Ipse culta ignes.",
+            "title": "Inde frena sit mihi ultimus Troum"
+        },
+        {
+            "location": "/about/#rediit-meleagros",
+            "text": "Dum loca ulla ceciderunt, sole quod qui sepulta mea  habet  poma conciderant\nanimi. Parentem et aditus, par nec, Vesta tamen sinu, duabus in fuit! Fossae ora\nne contactu quo sumpto templi antro; intellecta dum fallente linquit Ithacus\nignotos, eram,  me .",
+            "title": "Rediit Meleagros"
+        },
+        {
+            "location": "/about/#proturbat-ducem",
+            "text": "Inque Aries postquam sumere hastarum sim vel aquas indicat Fortuna postquam\nvirgineos habebat. Etiam aut, via maxime flammam est animi suum sit. Plagarum\nquibus quaecumque Bybli cedere.  Sub data\nadmonitus  Iovis divum abest. Sol qui poteram\nne pars Alcyonen virgaque iungat, Eous esse eloquio.   Quae voce procul ab mactas ille ferre  Primum iste decet  Inducere fallat",
+            "title": "Proturbat ducem"
+        },
+        {
+            "location": "/about/#clausaeque-dant-praecepta-ante-dicebant-decimum",
+            "text": "Centumque paterno. Me quoque rapitur iactabimur visa.  Cursu flet\nterramque  pisa et nec agna raptos Latona\nmuneribus fallente concussae videri exit spectabat ut occasu? Opem simplex\ndabit. Quia  dolore altera : toto subit,  ille tamen\nintremuit  Ityn pignus e rictus Pergama clamavit tempora pudorque, ripa.  balancing = pretest;\nif (3) {\n    sample = drag;\n    irq.syntax(kibibyte.trash(keywordsEnterprise, cadPpp, digitalCell),\n            cleanFios, computer(-2));\n    directory = 2;\n}\ndomain += sql;  Sonitum raptores adimam aquas. Non ab erubuit, lanient contulerat dabis  sororis\nafflatibus  nitor: surrexere Tritonia patria in\nfallere titulos erat. Saetis omni Cyparissus fugit in nuper  proceres atque\ndempserat  sed fudit, foret corde in\nretenta. Quod ulla et qui fratres Parcarum, mea nec per et montano cessisse\nOrphea ortas conlapsosque vidit penetratque. Bona geminis refers quae, suco\nconstruit sicco laudat, profecto fecit Cepheus demisit citharae.",
+            "title": "Clausaeque dant praecepta ante dicebant decimum"
+        },
+        {
+            "location": "/practica_uno/",
+            "text": "Welcome to the first material for learn git.\n\n\nMaterial writted by \n@carlogilmar\n\n\nAs software developer I think that you need to know some basic things:\n\n\n\n\nKnow and operate your SO through it own shell. I prefer use linux/unix. If you are using linux/unix, please check how to install ZSH (with oh my zsh) and FISH Shell (my favorite shell). If you want to be a programmer your best friend would be the shell.\n\n\nYou need a text-edit for write code. Sublime-text, Atom and Visual Study are some of this. But I recommend VIM or EMACS.\n\n\nThe final tool is GIT.\n\n\n\n\nGIT BASICS\n\n\nWell, the first approach is that all of you can use the basic git commands, and learning with practice. Then you will need a more deep.\nPlease install git in your SO. In Ubuntu for example you need to write:\n\n\n\n\nsudo apt-get install git\n\n\n\n\nIn MacOs please:\n\n\n\n\nbrew install git\n\n\n\n\nIf you are using Windows, download:\n\n\n\n\nhttps://git-scm.com/download/win\n\n\n\n\nPractice 1\n\n\n1.- Create a git repository and add your username\n\n\nPlease open your terminal, and create a folder called first-repository. Go into your new folder, and type:\n\n\n\n\ngit init\n\n\n\n\nWith this you will see a hidden folder called \n.git\n and you will get a git repository on your directory project.\n\n\nThen you will need add a username and email, without this Git cannot do nothing.\n\n\n\n\ngit config --global user.name \"carlogilmar\"\ngit config --global user.email \"carlo@makingdevs.com\"\n\n\n\n\n2.- See the status of git\n\n\nPlease type in the shell (into your folder):\n\n\n\n\ngit status\n\n\n\n\nIf you don't have files, with this command GIT would say \n\"nothing for commit\"\n.\n\n\n3.- Add a file and see the status\n\n\nAdd a simple file text called \nfirst-text.txt\n into your folder repository and add the following text:\n\n\n\n\nI love programming with git.\n\n\n\n\nPlease type in your shell:\n\n\n\n\ngit status\n\n\n\n\nAnd you will see that Git recognize your file.\n\n\nFor assing a control version to file, you need to do two steps: add the file to stage area (1), and write a reference(2).\n\n\n4.- Adding your file to stage area.\n\n\nPlease add your file to stage area with this:\n\n\n\n\ngit add first-step.txt\n\n\n\n\n5.- Write a reference\n\n\nPlease write a short description for your file:\n\n\n\n\ngit commit -m \"Adding my first file on git\"\n\n\n\n\n-m\n is a flag for write by command line, if you don't write this, git will open your default text-edit.\n\n\nIf you want to add control version to a file, you have to do GIT ADD and then GIT COMMIT, both commands are very important.\n\n\nWith this steps, you will get a file with control version.\n\n\n\u00a1Congratulations!\n\n\n6.- Please see your log description\n\n\n\n\ngit log\n\n\n\n\nAnd you will see the reference wrote, the username, the date, and a hash.\n\n\nUntil here we have learn the follow commands:\n\n\nInit a git repository into a folder\n\n\n\n\ngit init\n\n\n\n\nSee the git repository status\n\n\n\n\ngit status\n\n\n\n\nAdding a file to the control version\n\n\n\n\ngit add file_name.txt\n\n\ngit commit -m \"A reference about the file\"\n\n\n\n\n7.- Please add another file, and add to control version. You will write a reference (commit), with git log you have to see both references.\n\n\n8.- See a git difference\n\n\nPlease modify first-step.txt and write the following:\n\n\n\n\nI love programming. //Line modify\nNew line.\nOther new line.\nOther new line.\n\n\n\n\nYou modify a file with control version. So, you can see the diffences between the current state, and the last reference added to control version.\n\n\nPlease type:\n\n\n\n\ngit diff first-step.txt\n\n\n\n\nAnd you going to see the diffences. You can accept this diffences or not.\n\n\n9.- Accept the differences.\n\n\nPlease ADD and COMMIT the first-step.txt file, and see the reference with git log.\n\n\n10.- Refuse a difference\n\n\nPlease modify first-step.txt with something. Check the differences with git diff\n\n\nFor this case, we don't want to add this change. Please type:\n\n\n\n\ngit checkout -- first-step.txt\n\n\n\n\nAnd see your file. You refuse the change, so Git returns to the last commited state.\n\n\nUntil here, we are using the following commands:\n\n\nSee the changes in a file:\n\n\n\n\ngit diff file.txt\n\n\n\n\nRefuse the change:\n\n\n\n\ngit checkout -- file.txt\n\n\n\n\nSave the change with control version:\n\n\n\n\ngit add file.txt\ngit commit -m \"Adding a change on file.txt, this is my example reference\"\n\n\n\n\nExercise 1\n\n\n\n\nSee the Mkdocs Project, and create your own project.\n\n\nCreate your git repository and commit all the files.\n\n\nAdd your first markdown file called \nme.md\n and write about you.\n\n\nModify your mkdocs.yml for modify the visual part.\n\n\nModify your index.md\n\n\nFor every modification or adding, please commit.\n\n\nSee the log and see your commits.",
+            "title": "Topic 1: First Commit"
+        },
+        {
+            "location": "/practica_uno/#welcome-to-the-first-material-for-learn-git",
+            "text": "",
+            "title": "Welcome to the first material for learn git."
+        },
+        {
+            "location": "/practica_uno/#material-writted-by-carlogilmar",
+            "text": "As software developer I think that you need to know some basic things:   Know and operate your SO through it own shell. I prefer use linux/unix. If you are using linux/unix, please check how to install ZSH (with oh my zsh) and FISH Shell (my favorite shell). If you want to be a programmer your best friend would be the shell.  You need a text-edit for write code. Sublime-text, Atom and Visual Study are some of this. But I recommend VIM or EMACS.  The final tool is GIT.",
+            "title": "Material writted by @carlogilmar"
+        },
+        {
+            "location": "/practica_uno/#git-basics",
+            "text": "Well, the first approach is that all of you can use the basic git commands, and learning with practice. Then you will need a more deep.\nPlease install git in your SO. In Ubuntu for example you need to write:   sudo apt-get install git   In MacOs please:   brew install git   If you are using Windows, download:   https://git-scm.com/download/win",
+            "title": "GIT BASICS"
+        },
+        {
+            "location": "/practica_uno/#practice-1",
+            "text": "",
+            "title": "Practice 1"
+        },
+        {
+            "location": "/practica_uno/#1-create-a-git-repository-and-add-your-username",
+            "text": "Please open your terminal, and create a folder called first-repository. Go into your new folder, and type:   git init   With this you will see a hidden folder called  .git  and you will get a git repository on your directory project.  Then you will need add a username and email, without this Git cannot do nothing.   git config --global user.name \"carlogilmar\"\ngit config --global user.email \"carlo@makingdevs.com\"",
+            "title": "1.- Create a git repository and add your username"
+        },
+        {
+            "location": "/practica_uno/#2-see-the-status-of-git",
+            "text": "Please type in the shell (into your folder):   git status   If you don't have files, with this command GIT would say  \"nothing for commit\" .",
+            "title": "2.- See the status of git"
+        },
+        {
+            "location": "/practica_uno/#3-add-a-file-and-see-the-status",
+            "text": "Add a simple file text called  first-text.txt  into your folder repository and add the following text:   I love programming with git.   Please type in your shell:   git status   And you will see that Git recognize your file.  For assing a control version to file, you need to do two steps: add the file to stage area (1), and write a reference(2).",
+            "title": "3.- Add a file and see the status"
+        },
+        {
+            "location": "/practica_uno/#4-adding-your-file-to-stage-area",
+            "text": "Please add your file to stage area with this:   git add first-step.txt",
+            "title": "4.- Adding your file to stage area."
+        },
+        {
+            "location": "/practica_uno/#5-write-a-reference",
+            "text": "Please write a short description for your file:   git commit -m \"Adding my first file on git\"   -m  is a flag for write by command line, if you don't write this, git will open your default text-edit.  If you want to add control version to a file, you have to do GIT ADD and then GIT COMMIT, both commands are very important.  With this steps, you will get a file with control version.",
+            "title": "5.- Write a reference"
+        },
+        {
+            "location": "/practica_uno/#congratulations",
+            "text": "",
+            "title": "\u00a1Congratulations!"
+        },
+        {
+            "location": "/practica_uno/#6-please-see-your-log-description",
+            "text": "git log   And you will see the reference wrote, the username, the date, and a hash.  Until here we have learn the follow commands:  Init a git repository into a folder   git init   See the git repository status   git status   Adding a file to the control version   git add file_name.txt  git commit -m \"A reference about the file\"",
+            "title": "6.- Please see your log description"
+        },
+        {
+            "location": "/practica_uno/#7-please-add-another-file-and-add-to-control-version-you-will-write-a-reference-commit-with-git-log-you-have-to-see-both-references",
+            "text": "",
+            "title": "7.- Please add another file, and add to control version. You will write a reference (commit), with git log you have to see both references."
+        },
+        {
+            "location": "/practica_uno/#8-see-a-git-difference",
+            "text": "Please modify first-step.txt and write the following:   I love programming. //Line modify\nNew line.\nOther new line.\nOther new line.   You modify a file with control version. So, you can see the diffences between the current state, and the last reference added to control version.  Please type:   git diff first-step.txt   And you going to see the diffences. You can accept this diffences or not.",
+            "title": "8.- See a git difference"
+        },
+        {
+            "location": "/practica_uno/#9-accept-the-differences",
+            "text": "Please ADD and COMMIT the first-step.txt file, and see the reference with git log.",
+            "title": "9.- Accept the differences."
+        },
+        {
+            "location": "/practica_uno/#10-refuse-a-difference",
+            "text": "Please modify first-step.txt with something. Check the differences with git diff  For this case, we don't want to add this change. Please type:   git checkout -- first-step.txt   And see your file. You refuse the change, so Git returns to the last commited state.  Until here, we are using the following commands:  See the changes in a file:   git diff file.txt   Refuse the change:   git checkout -- file.txt   Save the change with control version:   git add file.txt\ngit commit -m \"Adding a change on file.txt, this is my example reference\"",
+            "title": "10.- Refuse a difference"
+        },
+        {
+            "location": "/practica_uno/#exercise-1",
+            "text": "See the Mkdocs Project, and create your own project.  Create your git repository and commit all the files.  Add your first markdown file called  me.md  and write about you.  Modify your mkdocs.yml for modify the visual part.  Modify your index.md  For every modification or adding, please commit.  See the log and see your commits.",
+            "title": "Exercise 1"
+        },
+        {
+            "location": "/practica_dos/",
+            "text": "Linking with remote repository\n\n\nNow, you know the basic commands:\n\n\n\n\ngit init\ngit status\ngit log\ngit add\ngit diff\ngit checkout --\ngit commit\n\n\n\n\nIt's time for show you the git areas:\n\n\n\n\nWorking Directory\n\n\nStage\n\n\nLocal Repository\n\n\nRemote Repository\n\n\n\n\nWhen you are using a git repository, you are on the first area: \nWorking Directory\n.\n\n\nWhen you ADD a file, you are send this file from \nWorking Directory\n to \nStage Area\n.\n\n\nWhen you COMMIT this file, you are sending to \nLocal Repository\n.\n\n\nThe \nLocal repository\n is the place where you are saving your changes with control version.\n\n\nAdditional, you can add a \nRemote Repository\n, it's very useful, especially when you are working in team. First you need a platform like Github, Gogs, Gitlab, or BitBucket.\n\n\nPlease explore some of these platforms.\n\n\nLinking with Github\n\n\nYou need a Github Account. \u00a1It's free!\n\n\nFor use this service, you need to link your SSH Key.\n\n\nYou have to generate your own SSH Key.\n\n\nGithub help you to generate:\n\n\nWindows Users:\n\n\n\n\nhttps://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows\n\n\n\n\nMac Os Users:\n\n\n\n\nhttps://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-mac\n\n\n\n\nLinux Users:\n\n\n\n\nhttps://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux\n\n\n\n\nYou will have a SSH Key like this:\n\n\n\n\nssh-rsa AAAAB3refgerC1yc2EAAAADAQABAAACAQDSeM4metgrewgfZeDqAR3yt5S\nxGtHP/EyeXPZe++oGaWlfHPW6iZ0BBPAh18s2Q7rqdNq9RVQeWgcLWXhxvqOZjzNEtU\n1DaLM+/tTdo2NLc0nptLH9er4vOKpjPXr2MNee3MrkovoO++oAoIB26c+NdNmg9FahJ\nBTj5/KGIk175VGs5Myk4+FCaObkR8FZj7je4InfIPMNKAg3twStr9Q/zzjuziQs8yBw\nHWDhRKyEvLw7K5VS+/KTq9dGy+KZjtXOIHVDuG7eK24nsE1q4jt3wNBMyd4mmCPlxOw\nQ8DBILwbVst9+4XDMbs6EzIq9OGN+oRkkQDdCyctFVifx3yMJxO4vq65rsLg08Lo/9E\nQDcTX4EUnx7Edzk47CtpAUArvkym1NzmDAUq9PJOACwiOOc0CjrLwQrAmq+lFkdRlxo\nyyS4pXHFr5Bfwff7Zw69ZcVq0tv0mBaKndNCrZfnfED5l+X9v5CP2bLfre3b7r6Nn/qt\nfRs57qQ/91veJT2IN3Fm8og9qs/RcpYTVdXeU4eJ9IqQnKJGKPtL6pk/97ZtLk2/LC0e\nfs39DIqpBQwbdi1PL1UensNd/dHBO6ezQrC6dyxgtahBIXKkOLmo8sI5zF8X25HVAVFm\nwruOkpb+kG5uZdQ2OACHJbys4QShg6NiFlJ+DyakbI6xOUjXTcf3cT9e5YQ\n== carlogilmar12@gmail.com\n\n\n\n\nPlease go to your Github Account, go to \nSettings/SSH keys\n and add your key.\n\n\nAdding your own remote repository\n\n\nIn your Github account, please create a \nnew public repository\n called \nfirst-commits\n.\n\n\nYou will see that Github give you a url by HTTPS or by SSH.\n\n\nSSH Link\n\n\n\n\ngit@github.com:carlogilmar/First-Commits.git\n\n\n\n\nHTTPS Link\n\n\n\n\nhttps://github.com/carlogilmar/First-Commits.git\n\n\n\n\nThis link is your remote repository, and you have to add in your local repository.\n\n\nNow, go to your local repository in your computer.\n\n\nAdd with this:\n\n\n\n\ngit remote add origin link-to-your-own-repository\n\n\n\n\nExample:\n\n\n\n\ngit remote add origin git@github.com:carlogilmar/First-Commits.git\n\n\n\n\nIf you add your remote repository, please write:\n\n\n\n\ngit remote -v\n\n\n\n\nAnd then you have to see some like this:\n\n\n\n\norigin  git@github.com:carlogilmar/git-practice-project.git (fetch)\n\n\norigin  git@github.com:carlogilmar/git-practice-project.git (push)\n\n\n\n\nIt's done.\n\n\nBasic Commands\n\n\nPush\n\n\nYou have your local repository, with commits added, and linked to remote repository.\n\n\nIf you want to copy your version control history in your remote repository you have to push your history.\n\n\n\n\ngit push origin master\n\n\n\n\nOrigin\n is the link to your remote repository. And \nmaster\n is your current branch or history.\n\n\nFetch\n\n\nWith this command you can update the information of the current repository\n\n\n\n\ngit fetch\n\n\n\n\nPull\n\n\nIn some cases you can have more commits in your remote repository, but when you want to work, you need the lastest version.\n\n\n\n\ngit pull origin master\n\n\n\n\nWith this command you will download the lastest changes in your remote repository.\n\n\nExercise 2\n\n\n\n\nCreate a new remote repository in github\n\n\nPush your project created in Exercise 1",
+            "title": "Topic 2: Linking with Github"
+        },
+        {
+            "location": "/practica_dos/#linking-with-remote-repository",
+            "text": "Now, you know the basic commands:   git init\ngit status\ngit log\ngit add\ngit diff\ngit checkout --\ngit commit   It's time for show you the git areas:   Working Directory  Stage  Local Repository  Remote Repository   When you are using a git repository, you are on the first area:  Working Directory .  When you ADD a file, you are send this file from  Working Directory  to  Stage Area .  When you COMMIT this file, you are sending to  Local Repository .  The  Local repository  is the place where you are saving your changes with control version.  Additional, you can add a  Remote Repository , it's very useful, especially when you are working in team. First you need a platform like Github, Gogs, Gitlab, or BitBucket.  Please explore some of these platforms.",
+            "title": "Linking with remote repository"
+        },
+        {
+            "location": "/practica_dos/#linking-with-github",
+            "text": "You need a Github Account. \u00a1It's free!  For use this service, you need to link your SSH Key.  You have to generate your own SSH Key.  Github help you to generate:  Windows Users:   https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows   Mac Os Users:   https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-mac   Linux Users:   https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux   You will have a SSH Key like this:   ssh-rsa AAAAB3refgerC1yc2EAAAADAQABAAACAQDSeM4metgrewgfZeDqAR3yt5S\nxGtHP/EyeXPZe++oGaWlfHPW6iZ0BBPAh18s2Q7rqdNq9RVQeWgcLWXhxvqOZjzNEtU\n1DaLM+/tTdo2NLc0nptLH9er4vOKpjPXr2MNee3MrkovoO++oAoIB26c+NdNmg9FahJ\nBTj5/KGIk175VGs5Myk4+FCaObkR8FZj7je4InfIPMNKAg3twStr9Q/zzjuziQs8yBw\nHWDhRKyEvLw7K5VS+/KTq9dGy+KZjtXOIHVDuG7eK24nsE1q4jt3wNBMyd4mmCPlxOw\nQ8DBILwbVst9+4XDMbs6EzIq9OGN+oRkkQDdCyctFVifx3yMJxO4vq65rsLg08Lo/9E\nQDcTX4EUnx7Edzk47CtpAUArvkym1NzmDAUq9PJOACwiOOc0CjrLwQrAmq+lFkdRlxo\nyyS4pXHFr5Bfwff7Zw69ZcVq0tv0mBaKndNCrZfnfED5l+X9v5CP2bLfre3b7r6Nn/qt\nfRs57qQ/91veJT2IN3Fm8og9qs/RcpYTVdXeU4eJ9IqQnKJGKPtL6pk/97ZtLk2/LC0e\nfs39DIqpBQwbdi1PL1UensNd/dHBO6ezQrC6dyxgtahBIXKkOLmo8sI5zF8X25HVAVFm\nwruOkpb+kG5uZdQ2OACHJbys4QShg6NiFlJ+DyakbI6xOUjXTcf3cT9e5YQ\n== carlogilmar12@gmail.com   Please go to your Github Account, go to  Settings/SSH keys  and add your key.",
+            "title": "Linking with Github"
+        },
+        {
+            "location": "/practica_dos/#adding-your-own-remote-repository",
+            "text": "In your Github account, please create a  new public repository  called  first-commits .  You will see that Github give you a url by HTTPS or by SSH.  SSH Link   git@github.com:carlogilmar/First-Commits.git   HTTPS Link   https://github.com/carlogilmar/First-Commits.git   This link is your remote repository, and you have to add in your local repository.  Now, go to your local repository in your computer.  Add with this:   git remote add origin link-to-your-own-repository   Example:   git remote add origin git@github.com:carlogilmar/First-Commits.git   If you add your remote repository, please write:   git remote -v   And then you have to see some like this:   origin  git@github.com:carlogilmar/git-practice-project.git (fetch)  origin  git@github.com:carlogilmar/git-practice-project.git (push)   It's done.",
+            "title": "Adding your own remote repository"
+        },
+        {
+            "location": "/practica_dos/#basic-commands",
+            "text": "",
+            "title": "Basic Commands"
+        },
+        {
+            "location": "/practica_dos/#push",
+            "text": "You have your local repository, with commits added, and linked to remote repository.  If you want to copy your version control history in your remote repository you have to push your history.   git push origin master   Origin  is the link to your remote repository. And  master  is your current branch or history.",
+            "title": "Push"
+        },
+        {
+            "location": "/practica_dos/#fetch",
+            "text": "With this command you can update the information of the current repository   git fetch",
+            "title": "Fetch"
+        },
+        {
+            "location": "/practica_dos/#pull",
+            "text": "In some cases you can have more commits in your remote repository, but when you want to work, you need the lastest version.   git pull origin master   With this command you will download the lastest changes in your remote repository.",
+            "title": "Pull"
+        },
+        {
+            "location": "/practica_dos/#exercise-2",
+            "text": "Create a new remote repository in github  Push your project created in Exercise 1",
+            "title": "Exercise 2"
+        },
+        {
+            "location": "/mkdocs/",
+            "text": "MkDocs Project\n\n\nThis is an interesting project.\n\n\nMkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.\n\n\nPlease go \nhere\n for know more.\n\n\nInstallation\n\n\nYou have to install \nPython <2.6\n\n\nWith python and pip promt, you can write some like this:\n\n\n\n\npip install mkdocs\n\n\n\n\nPlease check the implementation for your OS.\n\n\nStatic Generator\n\n\nMkDocs is a python project.\n\n\nYou have to know \nMarkdown Syntax\n, it's very easy.\n\n\nMarkdown Syntax\n\n\nCreate your Mkdocs project\n\n\nIn your command line, please:\n\n\n\n\nmkdocs new my-project\n\n\n\n\nYou will have a new folder called \"my-project\".\n\n\nmkdocs.yml\n you will have the configuration.\n\n\nPlease add markdown files in \ndocs/\n.\n\n\nConsult the guide \nhere\n\n\nBuild the static site\n\n\nPlease in your root project, type:\n\n\n\n\nmkdocs serve\n\n\n\n\nWith this you will have a server in local where you can see your static site.\n\n\nIf you want to generate your site, please:\n\n\n\n\nmkdocs build\n\n\n\n\nAnd you will see a new folder called \nsite\n, you will have a static site here.",
+            "title": "MkDocs Project"
+        },
+        {
+            "location": "/mkdocs/#mkdocs-project",
+            "text": "This is an interesting project.  MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.  Please go  here  for know more.",
+            "title": "MkDocs Project"
+        },
+        {
+            "location": "/mkdocs/#installation",
+            "text": "You have to install  Python <2.6  With python and pip promt, you can write some like this:   pip install mkdocs   Please check the implementation for your OS.",
+            "title": "Installation"
+        },
+        {
+            "location": "/mkdocs/#static-generator",
+            "text": "MkDocs is a python project.  You have to know  Markdown Syntax , it's very easy.  Markdown Syntax",
+            "title": "Static Generator"
+        },
+        {
+            "location": "/mkdocs/#create-your-mkdocs-project",
+            "text": "In your command line, please:   mkdocs new my-project   You will have a new folder called \"my-project\".  mkdocs.yml  you will have the configuration.  Please add markdown files in  docs/ .  Consult the guide  here",
+            "title": "Create your Mkdocs project"
+        },
+        {
+            "location": "/mkdocs/#build-the-static-site",
+            "text": "Please in your root project, type:   mkdocs serve   With this you will have a server in local where you can see your static site.  If you want to generate your site, please:   mkdocs build   And you will see a new folder called  site , you will have a static site here.",
+            "title": "Build the static site"
         }
     ]
 }

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Topic 2: Linking with Github - Git/Github Course for .Net Class</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+	
+	<script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="..">Git/Github Course for .Net Class</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                    <li >
+                        <a href="../about/">About</a>
+                    </li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prácticas <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../practica_uno/">Topic 1: First Commit</a>
+</li>
+                            
+<li class="active">
+    <a href="./">Topic 2: Linking with Github</a>
+</li>
+                            
+<li >
+    <a href="../mkdocs/">MkDocs Project</a>
+</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../practica_uno/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../mkdocs/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#linking-with-remote-repository">Linking with remote repository</a></li>
+            <li><a href="#linking-with-github">Linking with Github</a></li>
+            <li><a href="#adding-your-own-remote-repository">Adding your own remote repository</a></li>
+            <li><a href="#basic-commands">Basic Commands</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="linking-with-remote-repository">Linking with remote repository</h1>
+<p>Now, you know the basic commands:</p>
+<blockquote>
+<p>git init
+git status
+git log
+git add
+git diff
+git checkout --
+git commit</p>
+</blockquote>
+<p>It's time for show you the git areas:</p>
+<ol>
+<li>Working Directory</li>
+<li>Stage</li>
+<li>Local Repository</li>
+<li>Remote Repository</li>
+</ol>
+<p>When you are using a git repository, you are on the first area: <strong>Working Directory</strong>.</p>
+<p>When you ADD a file, you are send this file from <strong>Working Directory</strong> to <strong>Stage Area</strong>.</p>
+<p>When you COMMIT this file, you are sending to <strong>Local Repository</strong>.</p>
+<p>The <strong>Local repository</strong> is the place where you are saving your changes with control version.</p>
+<p>Additional, you can add a <strong>Remote Repository</strong>, it's very useful, especially when you are working in team. First you need a platform like Github, Gogs, Gitlab, or BitBucket.</p>
+<p>Please explore some of these platforms.</p>
+<h3 id="linking-with-github">Linking with Github</h3>
+<p>You need a Github Account. ¡It's free!</p>
+<p>For use this service, you need to link your SSH Key.</p>
+<p>You have to generate your own SSH Key.</p>
+<p>Github help you to generate:</p>
+<p>Windows Users:</p>
+<blockquote>
+<p>https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows</p>
+</blockquote>
+<p>Mac Os Users:</p>
+<blockquote>
+<p>https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-mac</p>
+</blockquote>
+<p>Linux Users:</p>
+<blockquote>
+<p>https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux</p>
+</blockquote>
+<p>You will have a SSH Key like this:</p>
+<blockquote>
+<p>ssh-rsa AAAAB3refgerC1yc2EAAAADAQABAAACAQDSeM4metgrewgfZeDqAR3yt5S
+xGtHP/EyeXPZe++oGaWlfHPW6iZ0BBPAh18s2Q7rqdNq9RVQeWgcLWXhxvqOZjzNEtU
+1DaLM+/tTdo2NLc0nptLH9er4vOKpjPXr2MNee3MrkovoO++oAoIB26c+NdNmg9FahJ
+BTj5/KGIk175VGs5Myk4+FCaObkR8FZj7je4InfIPMNKAg3twStr9Q/zzjuziQs8yBw
+HWDhRKyEvLw7K5VS+/KTq9dGy+KZjtXOIHVDuG7eK24nsE1q4jt3wNBMyd4mmCPlxOw
+Q8DBILwbVst9+4XDMbs6EzIq9OGN+oRkkQDdCyctFVifx3yMJxO4vq65rsLg08Lo/9E
+QDcTX4EUnx7Edzk47CtpAUArvkym1NzmDAUq9PJOACwiOOc0CjrLwQrAmq+lFkdRlxo
+yyS4pXHFr5Bfwff7Zw69ZcVq0tv0mBaKndNCrZfnfED5l+X9v5CP2bLfre3b7r6Nn/qt
+fRs57qQ/91veJT2IN3Fm8og9qs/RcpYTVdXeU4eJ9IqQnKJGKPtL6pk/97ZtLk2/LC0e
+fs39DIqpBQwbdi1PL1UensNd/dHBO6ezQrC6dyxgtahBIXKkOLmo8sI5zF8X25HVAVFm
+wruOkpb+kG5uZdQ2OACHJbys4QShg6NiFlJ+DyakbI6xOUjXTcf3cT9e5YQ
+== carlogilmar12@gmail.com</p>
+</blockquote>
+<p>Please go to your Github Account, go to <strong>Settings/SSH keys</strong> and add your key.</p>
+<h3 id="adding-your-own-remote-repository">Adding your own remote repository</h3>
+<p>In your Github account, please create a <strong>new public repository</strong> called <strong>first-commits</strong>.</p>
+<p>You will see that Github give you a url by HTTPS or by SSH.</p>
+<p>SSH Link</p>
+<blockquote>
+<p>git@github.com:carlogilmar/First-Commits.git</p>
+</blockquote>
+<p>HTTPS Link</p>
+<blockquote>
+<p>https://github.com/carlogilmar/First-Commits.git</p>
+</blockquote>
+<p>This link is your remote repository, and you have to add in your local repository.</p>
+<p>Now, go to your local repository in your computer.</p>
+<p>Add with this:</p>
+<blockquote>
+<p>git remote add origin link-to-your-own-repository</p>
+</blockquote>
+<p>Example:</p>
+<blockquote>
+<p>git remote add origin git@github.com:carlogilmar/First-Commits.git</p>
+</blockquote>
+<p>If you add your remote repository, please write:</p>
+<blockquote>
+<p>git remote -v</p>
+</blockquote>
+<p>And then you have to see some like this:</p>
+<blockquote>
+<p>origin  git@github.com:carlogilmar/git-practice-project.git (fetch)</p>
+<p>origin  git@github.com:carlogilmar/git-practice-project.git (push)</p>
+</blockquote>
+<p>It's done.</p>
+<h2 id="basic-commands">Basic Commands</h2>
+<h3 id="push">Push</h3>
+<p>You have your local repository, with commits added, and linked to remote repository.</p>
+<p>If you want to copy your version control history in your remote repository you have to push your history.</p>
+<blockquote>
+<p>git push origin master</p>
+</blockquote>
+<p><strong>Origin</strong> is the link to your remote repository. And <strong>master</strong> is your current branch or history.</p>
+<h3 id="fetch">Fetch</h3>
+<p>With this command you can update the information of the current repository</p>
+<blockquote>
+<p>git fetch</p>
+</blockquote>
+<h3 id="pull">Pull</h3>
+<p>In some cases you can have more commits in your remote repository, but when you want to work, you need the lastest version.</p>
+<blockquote>
+<p>git pull origin master</p>
+</blockquote>
+<p>With this command you will download the lastest changes in your remote repository.</p>
+<h3 id="exercise-2">Exercise 2</h3>
+<ol>
+<li>Create a new remote repository in github</li>
+<li>Push your project created in Exercise 1</li>
+</ol></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+        <script src="../js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

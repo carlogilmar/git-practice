@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Topic 1: First Commit - Git/Github Course for .Net Class</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+	
+	<script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="..">Git/Github Course for .Net Class</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                    <li >
+                        <a href="../about/">About</a>
+                    </li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prácticas <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li class="active">
+    <a href="./">Topic 1: First Commit</a>
+</li>
+                            
+<li >
+    <a href="../practica_dos/">Topic 2: Linking with Github</a>
+</li>
+                            
+<li >
+    <a href="../mkdocs/">MkDocs Project</a>
+</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../about/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../practica_dos/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#welcome-to-the-first-material-for-learn-git">Welcome to the first material for learn git.</a></li>
+            <li><a href="#material-writted-by-carlogilmar">Material writted by @carlogilmar</a></li>
+            <li><a href="#git-basics">GIT BASICS</a></li>
+            <li><a href="#practice-1">Practice 1</a></li>
+            <li><a href="#exercise-1">Exercise 1</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="welcome-to-the-first-material-for-learn-git">Welcome to the first material for learn git.</h1>
+<h5 id="material-writted-by-carlogilmar">Material writted by <a href="http://twitter.com/carlogilmar">@carlogilmar</a></h5>
+<p>As software developer I think that you need to know some basic things:</p>
+<ul>
+<li>Know and operate your SO through it own shell. I prefer use linux/unix. If you are using linux/unix, please check how to install ZSH (with oh my zsh) and FISH Shell (my favorite shell). If you want to be a programmer your best friend would be the shell.</li>
+<li>You need a text-edit for write code. Sublime-text, Atom and Visual Study are some of this. But I recommend VIM or EMACS.</li>
+<li>The final tool is GIT.</li>
+</ul>
+<h2 id="git-basics">GIT BASICS</h2>
+<p>Well, the first approach is that all of you can use the basic git commands, and learning with practice. Then you will need a more deep.
+Please install git in your SO. In Ubuntu for example you need to write:</p>
+<blockquote>
+<p>sudo apt-get install git</p>
+</blockquote>
+<p>In MacOs please:</p>
+<blockquote>
+<p>brew install git</p>
+</blockquote>
+<p>If you are using Windows, download:</p>
+<blockquote>
+<p>https://git-scm.com/download/win</p>
+</blockquote>
+<h2 id="practice-1">Practice 1</h2>
+<h3 id="1-create-a-git-repository-and-add-your-username">1.- Create a git repository and add your username</h3>
+<p>Please open your terminal, and create a folder called first-repository. Go into your new folder, and type:</p>
+<blockquote>
+<p>git init</p>
+</blockquote>
+<p>With this you will see a hidden folder called <strong>.git</strong> and you will get a git repository on your directory project.</p>
+<p>Then you will need add a username and email, without this Git cannot do nothing.</p>
+<blockquote>
+<p>git config --global user.name "carlogilmar"
+git config --global user.email "carlo@makingdevs.com"</p>
+</blockquote>
+<h3 id="2-see-the-status-of-git">2.- See the status of git</h3>
+<p>Please type in the shell (into your folder):</p>
+<blockquote>
+<p>git status</p>
+</blockquote>
+<p>If you don't have files, with this command GIT would say <strong>"nothing for commit"</strong>.</p>
+<h3 id="3-add-a-file-and-see-the-status">3.- Add a file and see the status</h3>
+<p>Add a simple file text called <strong>first-text.txt</strong> into your folder repository and add the following text:</p>
+<blockquote>
+<p>I love programming with git.</p>
+</blockquote>
+<p>Please type in your shell:</p>
+<blockquote>
+<p>git status</p>
+</blockquote>
+<p>And you will see that Git recognize your file.</p>
+<p>For assing a control version to file, you need to do two steps: add the file to stage area (1), and write a reference(2).</p>
+<h3 id="4-adding-your-file-to-stage-area">4.- Adding your file to stage area.</h3>
+<p>Please add your file to stage area with this:</p>
+<blockquote>
+<p>git add first-step.txt</p>
+</blockquote>
+<h3 id="5-write-a-reference">5.- Write a reference</h3>
+<p>Please write a short description for your file:</p>
+<blockquote>
+<p>git commit -m "Adding my first file on git"</p>
+</blockquote>
+<p><strong>-m</strong> is a flag for write by command line, if you don't write this, git will open your default text-edit.</p>
+<p>If you want to add control version to a file, you have to do GIT ADD and then GIT COMMIT, both commands are very important.</p>
+<p>With this steps, you will get a file with control version.</p>
+<h3 id="congratulations">¡Congratulations!</h3>
+<h3 id="6-please-see-your-log-description">6.- Please see your log description</h3>
+<blockquote>
+<p>git log</p>
+</blockquote>
+<p>And you will see the reference wrote, the username, the date, and a hash.</p>
+<p>Until here we have learn the follow commands:</p>
+<p>Init a git repository into a folder</p>
+<blockquote>
+<p>git init</p>
+</blockquote>
+<p>See the git repository status</p>
+<blockquote>
+<p>git status</p>
+</blockquote>
+<p>Adding a file to the control version</p>
+<blockquote>
+<p>git add file_name.txt</p>
+<p>git commit -m "A reference about the file"</p>
+</blockquote>
+<h3 id="7-please-add-another-file-and-add-to-control-version-you-will-write-a-reference-commit-with-git-log-you-have-to-see-both-references">7.- Please add another file, and add to control version. You will write a reference (commit), with git log you have to see both references.</h3>
+<h3 id="8-see-a-git-difference">8.- See a git difference</h3>
+<p>Please modify first-step.txt and write the following:</p>
+<blockquote>
+<p>I love programming. //Line modify
+New line.
+Other new line.
+Other new line.</p>
+</blockquote>
+<p>You modify a file with control version. So, you can see the diffences between the current state, and the last reference added to control version.</p>
+<p>Please type:</p>
+<blockquote>
+<p>git diff first-step.txt</p>
+</blockquote>
+<p>And you going to see the diffences. You can accept this diffences or not.</p>
+<h3 id="9-accept-the-differences">9.- Accept the differences.</h3>
+<p>Please ADD and COMMIT the first-step.txt file, and see the reference with git log.</p>
+<h3 id="10-refuse-a-difference">10.- Refuse a difference</h3>
+<p>Please modify first-step.txt with something. Check the differences with git diff</p>
+<p>For this case, we don't want to add this change. Please type:</p>
+<blockquote>
+<p>git checkout -- first-step.txt</p>
+</blockquote>
+<p>And see your file. You refuse the change, so Git returns to the last commited state.</p>
+<p>Until here, we are using the following commands:</p>
+<p>See the changes in a file:</p>
+<blockquote>
+<p>git diff file.txt</p>
+</blockquote>
+<p>Refuse the change:</p>
+<blockquote>
+<p>git checkout -- file.txt</p>
+</blockquote>
+<p>Save the change with control version:</p>
+<blockquote>
+<p>git add file.txt
+git commit -m "Adding a change on file.txt, this is my example reference"</p>
+</blockquote>
+<h2 id="exercise-1">Exercise 1</h2>
+<ol>
+<li>See the Mkdocs Project, and create your own project.</li>
+<li>Create your git repository and commit all the files.</li>
+<li>Add your first markdown file called <strong>me.md</strong> and write about you.</li>
+<li>Modify your mkdocs.yml for modify the visual part.</li>
+<li>Modify your index.md</li>
+<li>For every modification or adding, please commit.</li>
+<li>See the log and see your commits.</li>
+</ol></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+        <script src="../js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
